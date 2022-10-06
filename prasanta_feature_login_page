@@ -1,0 +1,16 @@
+print("learnings_from_last_class")
+
+   1. The working methodology of git & github
+
+   2. ways of sourse code management like CVCS(Centralised version control system) & DVCS (Distributed version control system)
+
+   3. stages of SCM like working area > staging > local repositary 
+
+   4.Understood diffrent commands to maintain the diffrent version of source code so that in case of non working of any version we can use the previous version of code to mentain the flow
+   
+   5. Effective uses of branching to maintain the user experience while working on new feature.
+   
+   6. technique of keeping code in a hidden place through stashing to work on new code.
+   
+   7. Understood cherry picking to pick a particular commit to a branch and rebase to combinely pick diffrent commits to a branch
+
